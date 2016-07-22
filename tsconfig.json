@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "outFile": "ScriptExample.jsx"
+  },
+  "files": [
+    "typings/aftereffects.d.ts/ae.d.ts",
+    "ScriptExample.ts"
+  ]
+}
